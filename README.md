@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bytebusterx&label=Profile%20views&color=0e75b6&style=flat" alt="bytebusterx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bytebusterx" alt="bytebusterx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bytebusterx" target="blank"><img src="https://img.shields.io/twitter/follow/bytebusterx?logo=twitter&style=for-the-badge" alt="bytebusterx" /></a> </p>
-
 - 🔭 I’m currently working on **bug bounties and making blogs**
 
 - 🌱 I’m currently in the **ctfs and opensource bug bounties.**
@@ -36,9 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bytebusterx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bytebusterx" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytebusterx&show_icons=true&locale=en&layout=compact" alt="bytebusterx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bytebusterx&show_icons=true&locale=en" alt="bytebusterx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytebusterx&" alt="bytebusterx" /></p>
